@@ -43,6 +43,11 @@
     color: #03071e;
 }
 
+.xl-font2 {
+    font-size: 20px;
+    color: rgb(5, 255, 115);
+}
+
 .button {
     border: 5px solid #03071e;
     background-color: transparent;
@@ -60,7 +65,7 @@
     color: white;
 }
 
-.logoimage{
+.logoimage {
     float: left;
     width: 33.33333%;
     padding: 25px;
